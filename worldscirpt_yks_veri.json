@@ -1,0 +1,16 @@
+[
+    {
+        "ders": "matematik",
+        "konu": "problemler",
+        "dogru": 20,
+        "yanlis": 4,
+        "net": 19.0
+    },
+    {
+        "ders": "türkçe",
+        "konu": "cümlede anlam",
+        "dogru": 20,
+        "yanlis": 0,
+        "net": 20.0
+    }
+]
